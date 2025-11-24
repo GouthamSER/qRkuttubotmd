@@ -1,7 +1,7 @@
 {
-  "name": "knight-bot",
+  "name": "kuttu-bot",
   "version": "1.0.0",
-  "description": "Knight Bot - WhatsApp Pair Code Generator",
+  "description": "Kuttu Bot - WhatsApp Pair Code Generator",
   "main": "index.js",
   "type": "module",
   "engines": {
